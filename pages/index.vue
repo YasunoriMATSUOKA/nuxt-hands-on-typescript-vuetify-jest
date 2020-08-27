@@ -44,7 +44,7 @@
               rel="noopener noreferrer"
               title="contribute"
             >
-              issue board </a
+              issue boards </a
             >.
           </p>
           <p>
